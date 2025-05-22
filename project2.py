@@ -2,7 +2,6 @@ import random
 
 # Randomly generate a number between 1 and 100
 number_to_guess = random.randint(1,100)
-print(number_to_guess)
 
 max_attempts = 10 # max number of attempts
 
